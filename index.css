@@ -1,0 +1,102 @@
+.resim {
+    position: fixed;
+    left: 950px;
+    top: 300px;    
+}
+.search {
+    width: 1298px;
+    height: 20px;
+    background-color: rgb(231, 233, 231);
+    padding: 30px;
+    position: fixed;
+    top: 400px;
+    left: 455px; 
+}
+.button1 {
+    position: fixed;
+    top: 446px;
+    left: 1020px;
+}
+.button2 {
+    position: fixed;
+    top: 446px;
+    left: 1130px;
+}
+.f-1 {
+    position: fixed;
+    top: 385px;
+    left: 1033px;
+}
+.input1 {
+    height: 18px;
+    width: 340px;
+    position: fixed;
+    top: 420px;
+    left: 950px;
+}
+.left-box {
+    margin-top: 3px;
+    width: 500px;
+    height: 90px;
+    background-color: rgb(55, 226, 209);
+    position: fixed;
+    top: 480px;
+    left: 455px;
+}
+.mid-box {
+    margin-top: 3px;
+    margin-right: 3px;
+    width: 250px;
+    height: 90px;
+    background-color: rgb(49, 204, 188);
+    position: fixed;
+    left: 960px;
+    top: 480px;
+}
+.right-box {
+    margin-top: 3px;
+    width: 600px;
+    height: 90px;
+    background-color: rgb(21, 177, 161);
+    position: fixed;
+    left: 1213px;
+    top: 480px;
+}
+.link1 {
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 15px;
+  display: grid;    
+}
+.link2 {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    display: grid;   
+}
+.link3 {
+    font-size: 14px;
+    position: absolute;
+    bottom: 40px;
+    right: 250px;
+    width: 120px;
+}
+.right-mail {
+    width: 200px;
+    height: 15px;
+    position: absolute;
+    top: 37px;
+    left: 185px;
+}
+.right-button {
+    position: absolute;
+    top: 60px;
+    left: 210px;
+}
+.right-archive {
+    position: absolute;
+    top: 60px;
+    left: 300px;
+}
